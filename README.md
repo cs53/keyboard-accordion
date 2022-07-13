@@ -1,4 +1,5 @@
 # keyboard-accordion
-npm i
+npm i //
+
 npm run dev  
 npm run build // to build
