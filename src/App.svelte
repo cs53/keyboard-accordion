@@ -222,7 +222,7 @@
       const newActiveButtonIdMap = { ...activeButtonIdMap };
       delete newActiveButtonIdMap[id];
       activeButtonIdMap = newActiveButtonIdMap;
-      return activeButtonIdMap;
+//       return activeButtonIdMap; this will make tones in Thirds unstoppable
     }
   }
   const playScale = (scale, type) => async () => {
